@@ -1,0 +1,35 @@
+.header{position: fixed;top: 0,25rem;}
+h1{color: cadetblue;padding-left: 100px;padding-bottom: 30px;}
+li{display: inline;}
+article{text-align: right;margin-right: 40px;padding-top: 30px;padding-right: 150px;}
+.pays{color: rgb(80, 80, 214);}
+.flex-box{width: 800px;height: 375px;display: flex;justify-content: space-evenly;;align-content: space-around;justify-self: center;}
+.boxbox1{width: 250px;height: 350px;text-align: center;background-color: rgba(15, 111, 65, 0.556);font-size: 25px;}
+.boxbox2{width: 250px;height: 350px;text-align: center;background-color: rgba(18, 104, 243, 0.556);font-size: 25px;}
+.boxbox3{width: 250px;height: 350px;text-align: center;background-color: rgb(0, 0, 0);font-size: 25px;}
+
+.container{padding-left: 140px;}
+.flex-box2{width: 1440px;height: 600px;background-color: rgb(162, 211, 194);}
+.box-box{
+    margin-top: 20px;
+    width: 250px;
+    max-width: 250px;
+    padding: auto;
+    height: 260px;
+    background-color: white;
+    margin-left: 20px;
+    border: 1px solid;
+    text-align: center;
+}
+.col-3{width: 250px;height: 260px;background-color:white;}
+.grid-container2{width: 900px;height: 1100px;display: flex;justify-content: space-between;;align-content: space-around;justify-self: center;padding-bottom: 80px;margin-left:  300px;border-radius: 1px;margin-top: 60px;}
+.boxp1{width: 280px;height: 350px;text-align: center;font-size: 25px;}
+.boxp2{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp3{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp4{width: 280px;height: 350px;text-align: center;font-size: 25px;}
+.boxp5{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp6{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp7{width: 280px;height: 350px;text-align: center;font-size: 25px;}
+.boxp8{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp9{width: 280px;height: 350px;text-align: center;font-size: 25px;margin-top: 20px;}
+.boxp{background-color: white;}
